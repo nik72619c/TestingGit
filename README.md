@@ -1,2 +1,2 @@
 # TestingGit
-this is a repo for testing git !
+this repo for testing git has been updated !
